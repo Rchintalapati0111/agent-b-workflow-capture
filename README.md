@@ -1,4 +1,4 @@
-# 🤖 Agent B: AI-Powered Workflow Automation System
+# Agent B: AI-Powered Workflow Automation System
 
 > Autonomous multi-agent system using GPT-4 Vision to capture and automate web application workflows
 
@@ -117,10 +117,6 @@ Finds elements by geometric position relative to labels
 - **Runtime**: Node.js
 - **Architecture**: Multi-agent system with vision-language models
 
-## 📝 License
-
-MIT
-
 ---
 
-Built with ❤️ using GPT-4 Vision and Playwright
+Built using GPT-4 Vision and Playwright
