@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables (NEVER COMMIT THIS!)
+.env
+
+# Captured workflows (screenshots can be large)
+captured-workflows/
+*.png
+*.jpg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*

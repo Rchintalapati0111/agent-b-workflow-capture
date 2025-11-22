@@ -1,0 +1,32 @@
+{
+  "name": "agent-b-workflow-capture",
+  "version": "2.0.0",
+  "description": "AI-powered workflow capture system using Vision + DOM hybrid approach",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test:single": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "workflow",
+    "claude",
+    "playwright",
+    "vision",
+    "dom"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0",
+    "dotenv": "^17.2.3",
+    "openai": "^6.9.1",
+    "playwright": "^1.56.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
