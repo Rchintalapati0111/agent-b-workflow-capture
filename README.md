@@ -1,4 +1,4 @@
-# Agent B: AI-Powered Workflow Automation System
+# AI-Powered Workflow Automation System
 
 > Autonomous multi-agent system using GPT-4 Vision to capture and automate web application workflows
 
